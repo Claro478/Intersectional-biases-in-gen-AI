@@ -94,6 +94,14 @@ Para 1.
 <a name="quantanalysis"></a>
 <h3> 4.1 Quantitative Analysis</h3> 
 
+<div align="center"> 
+  
+<img width="650" alt="figure 1" src="https://github.com/Claro478/Intersectional-biases-in-gen-AI/blob/main/Graphs_Teacher.jpeg">
+  
+<br/>  
+<i>Figure 1: Suggested personas for Teacher.</i>
+</div> 
+
 <a name="qualanalysis"></a>
 <h3> 4.2 Qualitative Analysis</h3> 
 
@@ -166,13 +174,7 @@ bla
 <p align="justify"> 
 bla
 
-<div align="center"> 
-  
-<img width="650" alt="figure 1" src="https://user-images.githubusercontent.com/55432992/205193775-a157efba-a771-46d5-b131-4b0709341e9e.jpeg">
-  
-<br/>  
-<i>Figure 1: Figure description.</i>
-</div>
+
     
 <p align="justify"> 
 <br/>
