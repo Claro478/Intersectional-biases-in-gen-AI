@@ -293,7 +293,7 @@ In this case, our research question is: What are the assumptions of gender, race
 
 <a name="quantanalysis"></a>
 <h3> 4.1 Quantitative Results</h3> 
-<div align="center"> 
+<p align="justify"> 
 The captured results are visualized below as bar graphs per type of job.<br>
 Please note that the naming of each graph refers to the following chatbots :
  <ul>
@@ -301,19 +301,45 @@ Please note that the naming of each graph refers to the following chatbots :
     <li>_GE : Refers to gemma (google) (gemma2-9b-it)</li>
     <li>_ MI : Refers to mistral (mistral-saba-24b)</li>
  </ul>
+<p align="justify"> 
 
- 
+<h4>Legislator</h4>
+<div align="center"> 
+
+<img width="650" alt="legislator" src="https://github.com/Claro478/Intersectional-biases-in-gen-AI/blob/main/Graphs_Teacher.jpeg">
+
+ <h4>Medical Doctor</h4> 
+<div align="center"> 
  
 
 
 <div align="center"> 
-<div align="center"> <div align="center"> 
+<div align="center"> 
+ 
+<h4>Primary School Teacher</h4> 
+<div align="center"> 
   
-<img width="650" alt="figure 1" src="https://github.com/Claro478/Intersectional-biases-in-gen-AI/blob/main/Graphs_Teacher.jpeg">
+<img width="650" alt="primary school teacher" src="https://github.com/Claro478/Intersectional-biases-in-gen-AI/blob/main/Graphs_Teacher.jpeg">
   
 <br/>  
 <i>Figure 1: Suggested personas for Teacher.</i>
 </div> 
+
+<h4>Software Engineer</h4> 
+<div align="center"> 
+ 
+<img width="650" alt="software engineer" src="https://github.com/Claro478/Intersectional-biases-in-gen-AI/blob/main/Graphs_Teacher.jpeg">
+
+
+<h4>Cleaner</h4> 
+<div align="center">
+ <img width="650" alt="cleaner" src="https://github.com/Claro478/Intersectional-biases-in-gen-AI/blob/main/Graphs_Teacher.jpeg">
+
+
+<h4>Stay-at-home-parent/h4> 
+<div align="center"> 
+<img width="650" alt="stay at home parent" src="https://github.com/Claro478/Intersectional-biases-in-gen-AI/blob/main/Graphs_Teacher.jpeg">
+
 
 <a name="qualanalysis"></a>
 <h3> 4.2 Qualitative Results</h3> 
