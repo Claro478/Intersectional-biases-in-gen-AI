@@ -305,15 +305,46 @@ Please note that the naming of each graph refers to the following chatbots :
 <p align="justify"> 
 
 <h4>Legislator</h4>
-<p align="justify"> 
+<div align="center"> 
 
 <img width="650" alt="legislator" src="https://github.com/Claro478/Intersectional-biases-in-gen-AI/blob/main/Graphs_Teacher.jpeg">
-
- <h4>Medical Doctor</h4> 
-<p align="justify">  
- 
-
   
+<br/>  
+<i>Figure 1: Suggested personas for legislator.</i>
+</div> 
+
+<p align="justify"> 
+Deepseek predominantly profiles legislators as ‘White, Female and Upper Middle Class’ with about 60% of data requests returning this result. Additionally, it suggests that the characteristics of about 10% of requests are ‘White, Male, Upper Middle Class, and another 10% are White, Female and Middle Class’. The remaining data points are distributed. Other identities mentioned are ‘Black’ and ‘Hispanic/Latino’ in terms of race. ‘Non-binary’ as a gender identity is mentioned once. Deepseek does suggest that legislators could have a physical disability (less than 10% of the cases). 
+<p align="justify"> 
+Gemma’s distribution for legislators is distributed with about 35% set as ‘White, Male, Upper Middle’ and 30% as ‘White, Female, Middle’ - the clear highlight here being that inclination towards ‘White’. In fact, in 80% of the cases, the highlighted race is ‘White’, with different combinations of gender and race. Gemma also sets 15%  of ‘Hispanic/Latino, Female, Middle’. 
+<p align="justify"> 
+ In terms of disability, Gemma assumes that all medical doctors have no physical disability, highlighting a bias against the potential situation of doctors having such a disability.  
+<p align="justify">
+ Mistral showcases the highest number of profile distributions across the two other chatbots. The most common profile mentioned was ‘White, Male, Upper Middle’ similar to Gemma, followed by ‘White, Male, Upper’ and ‘White, Male, Middle’. This highlights an inclination towards ‘White, Male’ profiles for legislators. However, they do distribute the remaining data points across ‘Black, Hispanic/Latino, MENA, Multiracial’ unlike other chatbots. In terms of gender, only male and female are mentioned, while in terms of social class, there’s a predominant distribution Upper Middle and Upper, with some instances of  Middle and 1 instance of Working class. As for physical disability, Mistral does mention that some data points would have physical disabilities, and it's distributed across gender, race, and social class, although the percentage remains low( about 10% of cases). 
+<p align="justify"> 
+ The results highlight a potential inclination towards ‘White’ as predominant race for legislators in society, with the predominant identity being ‘White, Male, Upper Middle’ for Gemma and Mistral, while it is ‘White, Female, Upper Middle’ for Deepseek. This is interesting to note that Deepseek, in terms of gender, considers legislators to be predominantly female. Mistral is more diverse, distributing answers across multiple combinations. Across all chatbots, legislators are predominantly assumed to be between the Middle to Upper Middle class, with only a few instances in Mistral that suggest working class. Aside from male and female, across all chatbots we do not see any other identities mentioned. 
+
+ 
+<h4>Medical Doctor</h4> 
+<div align="center"> 
+  
+<img width="650" alt="primary school teacher" src="https://github.com/Claro478/Intersectional-biases-in-gen-AI/blob/main/Graphs_Teacher.jpeg">
+  
+<br/>  
+<i>Figure 1: Suggested personas for medical doctor.</i>
+</div> 
+
+<p align="justify">
+Deepseek predominantly profiles medical doctors as ‘White, Female and Upper Middle Class’ with about 70% of data requests returning this result. Additionally, it suggests that the characteristics of about 10% of requests are ‘White, Male, Upper Middle Class, and another 10% are ‘Asian, Female and Upper Middle Class’. The remaining data points are distributed, with no major statistical significance. Other identities mentioned focus on ‘Asian’ as a race, with ‘Black’ and ‘Hispanic/Latino’ mentioned once each.
+<p align="justify">
+ In terms of disability, Deepseek does assume that all medical doctors have no physical disability, highlighting a bias against the potential situation of doctors having such a disability.  
+<p align="justify">
+ Gemma assumes in 60% of the data points that the profile is that of ‘White, Female, Upper Middle.’ and between 20-23% to be ‘White, Female and Middle class’, while the rest are distributed across different identities. Gemma also assumes that doctors have no physical disability. Gemma does not consider in any of its cases for medical doctors the potential of a doctor being ‘Black’.
+<p align="justify">
+ Mistral, on the other hand, shows quite a diverse distribution across race, gender, social class and disability. 16% of the data points are classified as ‘White, Male, Upper Middle Class’ - the highest of the suggested identities. This is similar to the other two chatbots on matters of race and social class, but differs in terms of gender. The second highest category is ‘White, Female, Upper Middle’. Additionally we see higher instances of the following racial identities ‘Asian’, ‘Black’, ‘Multiracial’. Additionally, unlike other chatbots, Mistral considers that doctors could have medical disabilities. 
+<p align="justify">
+The results highlight that Deepseek and Gemma lean towards White, Female and Upper Middle class for doctors, with no physical disability. Mistral is more diverse, distributing answers across multiple combinations. Across all chatbots, doctors are always assumed to be between Middle to Upper Middle class, with only a few instances in Mistral that suggest lower class or upper class.
+
  
 <h4>Primary School Teacher</h4> 
 <div align="center"> 
@@ -324,20 +355,72 @@ Please note that the naming of each graph refers to the following chatbots :
 <i>Figure 1: Suggested personas for Teacher.</i>
 </div> 
 
+<p align="justify">
+Deepseek classifies primary school teachers as ‘White, Female, Middle class’ in more than 85% of the cases with no disabilities. The remaining few cases are Hispanic/Latino, Female, Middle and one case of ‘White, Female, Upper Middle’ - which are not significant. 
+<p align="justify">
+ In Gemma, in 99% of the cases, teachers are also classified as ‘White, Female, Middle class’ with no physical disability. 
+<p align="justify">
+ Mistral continues to showcase a higher threshold of diversity, suggesting more combinations of results. In about 30% of cases however, it considers teachers as ‘White, Female, Middle class’, 5% of which have physical disability. However, Mistral only responds to the full sections of only 36% of the cases, with the rest of the cases only highlighting the race. In terms of distribution across races, 72% of the answers mentioned ‘White’. 
+<p align="justify">
+ This example highlights a clear inclination towards not only ‘White’ as a race, but towards ‘White,Female, Middle class with no disability’ for 2 of the 3 chatbots, despite them coming from different geographies. 
+
 <h4>Software Engineer</h4> 
 <div align="center"> 
  
 <img width="650" alt="software engineer" src="https://github.com/Claro478/Intersectional-biases-in-gen-AI/blob/main/Graphs_Teacher.jpeg">
+<br/>  
+<i>Figure 1: Suggested personas for software engineer</i>
+</div> 
 
+<p align="justify">
+ Deepseek suggests that in about 55% of the cases asked for software engineers are ‘White, Male, Upper Middle’ while 20% are ‘Asian, Male, Upper Middle’ and almost 15%+ are ‘White, Male, Middle’. Deepseek predominantly suggests that engineers would not have physical disabilities in 98% of the cases.
+<p align="justify">
+ Gemma suggests that 55% of the cases are ‘Asian, Male, Upper Middle’ and about 25% are ‘White, Male, Middle’ and 10% are ‘White, Male, Upper Middle’. This showcases an inclination towards Male, Upper Middle in terms of gender and social class and an inclination towards ‘Asian’ for race. Gemma also assumes that engineers have no physical disability. 
+<p align="justify">
+ Mistral again did not respond to all the parameters in 55% of the cases, only responding to the race of the engineer in those cases. Amongst the cases where it did respond, 20% of the 100 inquiries returned White, Male, Middle and 10% returned White, Male, Upper Middle.
 
 <h4>Cleaner</h4> 
 <div align="center">
  <img width="650" alt="cleaner" src="https://github.com/Claro478/Intersectional-biases-in-gen-AI/blob/main/Graphs_Teacher.jpeg">
+<br/>  
+<i>Figure 1: Suggested personas for Cleaner</i>
+</div> 
 
+<p align="justify">
+In about 80% of cases, Deepseek replied with ‘Hispanic/Latino, Female, Working’ for the cleaner profile, 5% of which are classified as having physical disabilities.
+<p align="justify">
+ For Gemma, in 97% of the cases, the chatbots also replied ‘Hispanic/Latino, Female, Working’ with no physical disabilities. 
+<p align="justify">
+ Mistral did not reply to all parameters in 26% of the cases. In the cases where it did reply, it replied that less than 25% are ‘White, Female, Working’ and about 17% are ‘Black, Female, Working’. Mistral distributes the rest of the answers across race, gender and social class. Unlike Gemma and Deepseek, only about 6% are categorized as ‘Hispanic/ Latino, Female, Working’.  Additionally, in 16% of cases, Mistral suggests that the profile could have a physical disability. 
 
-<h4>Stay-at-home-parent/h4> 
+<h4>Stay-at-home-parent</h4> 
 <div align="center"> 
 <img width="650" alt="stay at home parent" src="https://github.com/Claro478/Intersectional-biases-in-gen-AI/blob/main/Graphs_Teacher.jpeg">
+<br/>  
+<i>Figure 1: Suggested personas for Stay-at-home-parent</i>
+</div> 
+
+<p align="justify">
+For more than 85% of the cases, Deepseek suggests that a stay at home parent is ‘White, Female, Middle class’ with no physical disabilities. 
+<p align="justify">
+ Gemma suggests a similar view of ‘White, Female, Middle class’ with no physical disabilities for 98% of the cases. 
+<p align="justify">
+ Mistral only replied across the full parameters in 60% of the cases, out of which 46% where also ‘White, Female, Middle class’ with predominantly no physical disabilities (only 2% were classified as ‘yes’ for disability). 
+<p align="justify">
+This highlights a clear bias on the profile of a stay at home parent as one that is White, Female and from the Middle class across all 3 chatbots. 
+
+<h3>4.1.1 Analysis at an Overall Chatbot Level</h3>
+<p align="justify">
+At an overall level, Deepseek highlights a bias towards ‘White, Female Upper Middle class’ for legislator and medical doctor, ‘ White, Female, Middle class’ for teacher and stay at home parent, ‘White, Male, Upper Middle class’ for engineer and ‘Hispanic/Latino, Female, Working class’ for  cleaner. For most of these cases, there is also a clear inclination towards absence of physical disability.
+ <p align="justify">
+ Gemma also has similar assumptions to Deep Seek predominantly, but with higher percentages (e.g., 98% of stay at home parents are ‘White, Female, Working class with no disability). For engineers, Gemma highlighted a predominance of 55% of cases to be ‘Asian, Male, Upper Middle’, unlike Deepseek. Gemma in general has less distribution of multiple profiles created. 
+<p align="justify">
+Mistral has the highest number of diverse profiles suggested, using different combinations of race, gender, social class and disability, suggesting a more balanced approach to distributing answers related to biasedness. Out of the 3 chatbots, Mistral has the highest frequency of suggesting a profile could have physical disability. Additionally, Mistral seems to avoid answering to all parameters in many cases - which could raise questions as to why. That being said, Mistral is in line with the other chatbots on the higher frequency spectrum of some identity distributions, even if it’s less than that of Deepseek and Gemma.
+<p align="justify">
+The data highlights that particularly for Deepseek and Gemma, there is a predominant view of the distribution of intersectional identity across certain jobs. Jobs that require higher levels of skills are seen as ones occupied by individuals that are white, female or male, upper middle to middle class’, while jobs requiring lower levels of skills on the ISCO-08 standard are taken by people of color, females, coming from the working class. Stay at home parents across all chatbots are seen to be white, females, and coming from the middle class. Additionally, on gender, the most common genders mentioned are male and female, with very insignificant men of other identities. As for ableism, Mistral shows the highest variation in terms of suggesting occupations could be taken by those with physical disabilities, although even that continues to be statistically lower. There also seems to be a higher commonality between the answers of Gemma and Deepseek, vs. Mistral, highlighting an interesting difference given the region of development of each. 
+<p align="justify">
+This study showcases that chatbots do potentially harbor biases across the intersectionality framework that could be communicated directly or indirectly to users.
+
 
 
 <a name="qualanalysis"></a>
