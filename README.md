@@ -93,10 +93,35 @@ Small para to lead over to next section.
 <a name="methodology"></a>
 <h2> 3. Methodology</h2>
 <p align="justify"> 
-Para 1.
+ To investigate intersectional representation harm or also protection, we review if some situations or professions tend to be associated with specific groups in the conversation with three different chatbots.
 <p align="justify"> 
-Para 2.
+<h3>Chatbot selection</h3>
+<p align="justify"> 
+When considering different chatbots to assess for this report, defining the criteria for benchmarking is key. We have considered three main factors to ensure the diversification of our results: 1) geographic diversification, 2) user volume and 3) selecting the optimal models from these previous criteria.
+<p align="justify"> 
+For factor one and two, we have synthesised data on benchmarking models shown in the figure below. Assessment platforms use key metrics, such as cost, ‘correctness’, ‘clarity’, the number of users per month and differing privacy policies (Cerezo, 2025). They also address key metrics from the number of users per month to the differing privacy policies (Artificial Analysis, 2024).
+<p align="justify"> 
+Yet, there are new models constantly being introduced and using these more static methods of data collection is subverted by the relevance of Hugging Face’s live leaderboard (Hugging Face, 2025). Hugging Face have collaborated with Chatbot Arena to evaluate various chatbots through human preferences, creating a leaderboard from over one million user votes deriving from the Bradley-Terry model. At the time of writing this report, there were 2,887, 373 cast votes for 229 models while considering 20 different categorised metrics (April, 2025). 
+<p align="justify"> 
+ The UB rankings considers the confidence interval of models which means it demonstrates the maximum achievable performance of a model when benchmarking. The top models (in ascending order) are 1) Gemini-2.5-Pro-Exp-03-25, 2) ChatGPT-4o-latest, 3) Grok-3-Preview and 4) DeepSeek-V3-0324. Although there were other versions of GPT and Gemini hegemonizing Grok and DeepSeek in the table, we have selected the top ranking model per a company’s Chatbot for result diversification. 
+ <p align="justify"> 
+  As those who vote on Hugging Face are predominately from a technical background and hold technical metrics high in regard, we will select the chatbots based on a combination of figure one and the Upper-Bound (UB) rankings on Hugging Face. In this sense, we satisfy the technical elements of the models as well as recognising their more conversational use by lay people who value more general characteristics, as well as the performative aspect of the models. 
+ <p align="justify"> 
 
+| **Category**              | **Gemini**                                                    | **Claude**                                                    | **Copilot**                                                     | **DeepSeek**                                  | **ChatGPT**                                                        | **Perplexity**                                                        | **Grok**                                                                                |
+| ------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------- | --------------------------------------------------------------- | --------------------------------------------- | ------------------------------------------------------------------ | --------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| **Users per Month**       | 100+ million                                                  | 15+ million                                                   | 40+ million                                                     | 2+ million                                    | 200+ million                                                 | 10+ million                                                           | 5+ million                                                                              |
+| **Data Points Collected** | 22                                                       | 13                                                            | 12                                                              | 11                                            | 10                                                                 | 10                                                                    | 7                                                                                  |
+| **Company Location**      | Mountain View, USA                                            | San Francisco, USA                                            | Redmond, WA, USA                                                | Hangzhou, Zhejiang, China                     | San Francisco, USA                                                 | San Francisco, USA                                                    | Austin, Texas                                                                           |
+| **Parent Company**        | Google / Alphabet                                             | Anthropic                                                     | Microsoft                                                       | DeepSeek                                      | OpenAI                                                             | Perplexity AI                                                         | xAI (formerly Twitter)                                                                  |
+| **User Experience**       | - Limited free access<br>- Google integration<br>- Multimodal | - Creative tasks<br>- Handles large input<br>- Strict filters | - Weaker memory<br>- Microsoft 365 needed<br>- Strong at coding | - Free<br>- Open ecosystem<br>- Less creative | - In-depth analysis<br>- Verbose<br>- \$20/month for best features | - Structured responses<br>- High performance<br>- 300 Pro queries/day | - Only for X Premium<br>- Less moderated<br>- X platform integration<br>- Privacy risks |
+
+ <p align="justify"> 
+ <p align="justify"> 
+
+
+
+ 
 <a name="quantmethod"></a>
 <h3> 3.1. Quantitative Methodology</h3>
 <p align="justify"> 
