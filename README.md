@@ -218,20 +218,30 @@ Para 3
 
 <a name="bibliography"></a>
 <h2> Bibliography</h2>
+
 <p align="justify">
-  x 
-<p align="justify"> 
-  x
-<p align="justify"> 
-  x
-<p align="justify"> 
-  x
-<p align="justify"> 
-  x
-<p align="justify"> 
-  x
-<p align="justify"> 
-  x
-<p align="justify"> 
-  x 
+  Artificial Analysis. (2024, September 15). AI chatbots comparison: ChatGPT, Claude, Meta AI, Gemini and more. <i>Artificial Analysis</i>. https://artificialanalysis.ai
+</p>
+<p align="justify">
+  Aschenbrenner, L. (2024). From GPT-4 to AGI: Counting the OOMs. <i>Situational Awareness</i>. https://situational-awareness.ai/from-gpt-4-to-agi/
+</p>
+<p align="justify">
+  Barnes, E., & Hutson, J. (2024). Navigating the complexities of AI: The critical role of interpretability and explainability in ensuring transparency and trust. <i>International Journal of Multidisciplinary and Current Educational Research</i>, 6(3), 248–256.
+</p>
+<p align="justify">
+  Bhambri, P., & Rani, S. (2024). Issues related to chatbots. In D. Darwish (Ed.), <i>Design and development of emerging chatbot technology</i> (pp. 130–147). IGI Global. https://doi.org/10.4018/979-8-3693-1830-0.ch008
+</p>
+<p align="justify">
+  Bietti, E. (2021). From ethics washing to ethics bashing: A moral philosophy view on tech ethics. <i>Journal of Social Computing</i>, 2(3), 266–283. https://doi.org/10.23919/JSC.2021.0031
+</p>
+<p align="justify">
+  Bose, M. (2025). Bias in AI: A societal threat: A look beyond the tech. In R. Pandey, N. Srivastava, R. Prasad, J. Prasad, & M. B. Garcia (Eds.), <i>Open AI and computational intelligence for Society 5.0</i> (pp. 197–224). IGI Global. https://doi.org/10.4018/979-8-3693-4326-5.ch009
+</p>
+<p align="justify">
+  Bradley, T., & Alhajjar, E. (2022). AI ethics: Assessing and correcting conversational bias in machine-learning based chatbots. In <i>Workshop Proceedings of the 16th International AAAI Conference on Web and Social Media (ICWSM)</i>. https://doi.org/10.36190/2022.67
+</p>
+<p align="justify">
+  Brown, N. (2024). Exploring the Challenges of Ensuring AI Alignment. <i>Ironhack</i>. https://www.ironhack.com/gb/blog/exploring-the-challenges-of-ensuring-ai-alignment
+</p>
+
 
