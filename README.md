@@ -329,19 +329,114 @@ One notable limitation of this study is that the chatbots generally refrained fr
 <a name="bibliography"></a>
 <h2> Bibliography</h2>
 <p align="justify">
-  x 
-<p align="justify"> 
-  x
-<p align="justify"> 
-  x
-<p align="justify"> 
-  x
-<p align="justify"> 
-  x
-<p align="justify"> 
-  x
-<p align="justify"> 
-  x
-<p align="justify"> 
+Artificial Analysis. (2024, September 15). AI chatbots comparison: ChatGPT, Claude, Meta AI, Gemini and more. Artificial Analysis. https://artificialanalysis.ai
+<p align="justify">
+Aschenbrenner, L. (2024). From GPT-4 to AGI: Counting the OOMs. Situational Awareness. https://situational-awareness.ai/from-gpt-4-to-agi/ 
+<p align="justify">
+Barnes, E., & Hutson, J. (2024). Navigating the complexities of AI: The critical role of interpretability and explainability in ensuring transparency and trust. International Journal of Multidisciplinary and Current Educational Research, 6(3), 248–256.
+<p align="justify">
+Bhambri, P., & Rani, S. (2024). Issues related to chatbots. In D. Darwish (Ed.), Design and development of emerging chatbot technology (pp. 130–147). IGI Global. https://doi.org/10.4018/979-8-3693-1830-0.ch008
+<p align="justify">
+Bietti, E. (2021). From ethics washing to ethics bashing: A moral philosophy view on tech ethics. Journal of Social Computing, 2(3), 266–283. https://doi.org/10.23919/JSC.2021.0031 
+<p align="justify">
+Bose, M. (2025). Bias in AI: A societal threat: A look beyond the tech. In R. Pandey, N. Srivastava, R. Prasad, J. Prasad, & M. B. Garcia (Eds.), Open AI and computational intelligence for Society 5.0 (pp. 197–224). IGI Global. https://doi.org/10.4018/979-8-3693-4326-5.ch009
+<p align="justify">
+Bradley, T., & Alhajjar, E. (2022). AI ethics: Assessing and correcting conversational bias in machine-learning based chatbots. In Workshop Proceedings of the 16th International AAAI Conference on Web and Social Media (ICWSM). https://doi.org/10.36190/2022.67
+<p align="justify">
+Brown, N. (2024). Exploring the Challenges of Ensuring AI Alignment. Ironhack. 
+https://www.ironhack.com/gb/blog/exploring-the-challenges-of-ensuring-ai-alignment 
+<p align="justify">
+Browne, J., Drage, E., & McInerney, K. (2024). Tech workers’ perspectives on ethical issues in AI development: Foregrounding feminist approaches. Big Data & Society, 11(1), 20539517231221780. https://doi.org/10.1177/20539517231221780
+<p align="justify">
+Capraro, V., et al. (2024). The impact of generative artificial intelligence on socioeconomic inequalities and policy making. PNAS Nexus, 3(6). https://doi.org/10.1093/pnasnexus/pgae191
+<p align="justify">
+Cerdán-Torregrosa, A., Nardini, K., & Vives-Cases, C. (2023). “I reject it, but that’s what normally happens”: Grey zones of gender-based violence and gender roles in young people. Journal of Interpersonal Violence, 38(11–12), 7656–7677. https://doi.org/10.1177/08862605221147070
+<p align="justify">
+Cerezo, N. (2025). Yet Another Benchmark. Medium. https://atarun.medium.com/yet-another-ai-benchmark-826d7fbfcddd 
+<p align="justify">
+Collins, P. H., da Silva, E. C. G., Ergun, E., Furseth, I., Bond, K. D., & Martínez-Palacios, J. (2021). Intersectionality as critical social theory. Contemporary Political Theory, 20(3), 690–725. https://doi.org/10.1057/s41296-021-00490-0
+<p align="justify">
+Council of Europe. (2023). Practical examples of AI implemented in other countries. Council of Europe Portal. https://www.coe.int
+<p align="justify">
+Crenshaw, K. (1989). Demarginalizing the intersection of race and sex: A Black feminist critique of antidiscrimination doctrine, feminist theory and antiracist politics. University of Chicago Legal Forum, 1989(1), 139–167. https://chicagounbound.uchicago.edu/uclf
+<p align="justify">
+Dafoe, A. (2015). On technological determinism: A typology, scope conditions, and a mechanism. Science, Technology, & Human Values, 40(6), 1047–1076. https://doi.org/10.1177/0162243915579283 
+<p align="justify">
+Díaz, S. P. (2020). Science, technology, and gender. In N. A. Naples (Ed.), Companion to Women's and Gender Studies (pp. 111–137). Wiley. https://doi.org/10.1002/9781119315063.ch6 
+<p align="justify">
+D’Ignazio, C., & Klein, L. F. (2024). Data feminism for AI. In Proceedings of the 2024 ACM Conference on Fairness, Accountability, and Transparency (pp. 1–12). Association for Computing Machinery. https://doi.org/10.1145/3630106.3658543 
+<p align="justify">
+De Souza, E. R., Wesselmann, E. D., & Ispas, D. (2017). Workplace discrimination against sexual minorities: Subtle and not-so-subtle. Canadian Journal of Administrative Sciences, 34(2), 121–132. https://doi.org/10.1002/cjas.1438
+<p align="justify">
+Duarte, F. (2025). Number of ChatGPT Users (March 2025). Exploding Topics. https://explodingtopics.com/blog/chatgpt-users 
+<p align="justify">
+Dwivedi YK, et al. (2023). “So what if ChatGPT wrote it?” Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy. International Journal of Information Management, 71, 102642. https://doi.org/10.1016/j.ijinfomgt.2023.102642 
+<p align="justify">
+El Morr, C. (2024). The need for a feminist approach to artificial intelligence. In Proceedings of the AAAI Symposium Series, 4(1), 332–333. https://doi.org/10.1609/aaaiss.v4i1.31812 
+<p align="justify">
+European Parliament. (2023). AI Act: A step closer to the first rules on artificial intelligence. https://www.europarl.europa.eu 
+<p align="justify">
+Floridi, L. (2023). On good and evil, the mistaken idea that technology is ever neutral, and the importance of the double-charge thesis. Philosophy & Technology, 36, 60. https://doi.org/10.1007/s13347-023-00661-4 
+<p align="justify">
+Foote, K. D. (2024). A brief history of generative AI. Dataversity. https://www.dataversity.net/a-brief-history-of-generative-ai/
+<p align="justify">
+Fuchs, D. J. (2018). The dangers of human-like bias in machine-learning algorithms. Missouri S&T’s Peer to Peer, 2(1), 1. https://scholarsmine.mst.edu/peer2peer/vol2/iss1/1 
+<p align="justify">
+Garg, N., Schiebinger, L., Jurafsky, D., & Zou, J. (2018). Word embeddings quantify 100 years of gender and ethnic stereotypes. Proceedings of the National Academy of Sciences, 115(16), E3635–E3644. https://doi.org/10.1073/pnas.1720347115
+<p align="justify">
+Greyling, C. (2022). An Updated Matrix of Conversational AI Technologies. Medium. https://cobusgreyling.medium.com/the-five-categories-of-conversational-ai-f2410beeaf2f 
+<p align="justify">
+Goldsmith, J., & Burton, E. (2017). Why teaching ethics to AI practitioners is important. Proceedings of the AAAI Conference on Artificial Intelligence, 31(1). https://doi.org/10.1609/aaai.v31i1.11139 
+<p align="justify">
+Haraway, D. (1988). Situated knowledges: The science question in feminism and the privilege of partial perspective. Feminist Studies, 14(3), 575–599. https://doi.org/10.2307/3178066 
+<p align="justify">
+Haraway, D. J. (1991). Simians, cyborgs, and women: The reinvention of nature. Routledge
+<p align="justify">
+Hillmer, U. (2007). Technologies and Bias: A Historic and Contemporary Investigation. International Journal of Technology, Knowledge and Society, 3(5), 117.
+<p align="justify">
+Hugging Face. (2025). Chatbot Arena LLM leaderboard: Community-driven evaluation for best LLM and AI chatbots. https://huggingface.co
+<p align="justify">
+Jørgensen, A. K., & Søgaard, A. (2023). Rawlsian AI fairness loopholes. AI and Ethics, 3, 1185–1192. https://doi.org/10.1007/s43681-022-00226-9 
+Kranzberg, M. (1985). The information age: Evolution or revolution? In B. R. Guile (Ed.), Information technologies and social transformation (pp. 35–54). National Academy Press. https://doi.org/10.17226/166
+<p align="justify">
+Krippendorff, K. (2019). Content analysis: An introduction to its methodology (4th ed.). SAGE Publications. https://doi.org/10.4135/9781071878781
+<p align="justify">
+Lu, M. (2025). Ranked: Which AI chatbots collect the most data about you? Visual Capitalist. https://www.visualcapitalist.com
+<p align="justify">
+Marr, B. (2023). A short history of ChatGPT: How we got to where we are today. Forbes. https://www.forbes.com
+<p align="justify">
+Martin, W. (1999). The social and cultural shaping of educational technology: Toward a social constructivist framework. AI & Society, 13(4), 402–420. https://doi.org/10.1007/BF01205986
+<p align="justify">
+McGee, R. W. (2024). How ethical is utilitarian ethics? A study in artificial intelligence. SSRN. https://ssrn.com/abstract=4731871 
+<p align="justify">
+Min, A. (2023). Artificial intelligence and bias: Challenges, implications, and remedies. Journal of Social Research, 2(11), 3808–3817. https://doi.org/10.55324/josr.v2i11.1477 
+<p align="justify">
+Morgan Lewis. (2023, October 26). European trilogue session on EU AI Act concludes with questions remaining. https://www.morganlewis.com
+<p align="justify">
+Nwokoye, A. (2025). Ethics in the age of artificial intelligence: Reconceptualising the traditional ethical theories. Trinitarian: International Journal of Arts and Humanities, 1(1), 45–60.
+<p align="justify">
+Peak, B. (2025, March 10). Grok 3 vs ChatGPT vs DeepSeek vs Claude vs Gemini: A user experience perspective. Cointelegraph. https://cointelegraph.com
+<p align="justify">
+Prism. (2025). LLM robustness against red teaming leaderboard. https://www.prism-eval.ai
+<p align="justify">
+Rahmatullah, M., & Gupta, T. (2023). Disrupting the binary: An argument for cybernetic feminism in deconstructing AI’s gendered algorithms. Rupkatha Journal on Interdisciplinary Studies in Humanities, 15(4), 1–15. https://doi.org/10.21659/rupkatha.v15n4.07 
+<p align="justify">
+Rebelo, M. (2025, March 4). The best AI chatbots in 2025. Zapier. https://zapier.com
+<p align="justify">
+Siachos, I., & Karacapilidis, N. (2024). Explainable artificial intelligence methods to enhance transparency and trust in digital deliberation settings. Future Internet, 16(7), 241. https://doi.org/10.3390/fi16070241
+<p align="justify">
+Sindoni, M. G. (2024). The feminization of AI-powered voice assistants: Personification, anthropomorphism and discourse ideologies. Discourse, Context & Media, 62, 100833. https://doi.org/10.1016/j.dcm.2024.100833
+<p align="justify">
+Singh, R. S., Bhambhani, Y., Skinta, M. D., & Torres-Harding, S. (2021). Measurement of intersectional microaggressions: Conceptual barriers and recommendations. Perspectives on Psychological Science, 16(5), 956–971. https://doi.org/10.1177/1745691621991855
+<p align="justify">
+Suchman, L. A. (2007). Feminist STS and the sciences of the artificial. In E. J. Hackett, O. Amsterdamska, M. Lynch, & J. Wajcman (Eds.), The handbook of science and technology studies (3rd ed., pp. 139–164). MIT Press.
+<p align="justify">
+Ulnicane, I. (2024). Intersectionality in artificial intelligence: Framing concerns and recommendations for action. Social Inclusion, 12, Article 7543. https://doi.org/10.17645/si.7543
+<p align="justify">
+Ulnicane, I., & Aden, A. (2023). Power and politics in framing bias in artificial intelligence policy. Review of Policy Research, 40(5), 665–687. https://doi.org/10.1111/ropr.12567
+<p align="justify">
+Xue, J., Wang, Y. C., Wei, C., Liu, X., Woo, J., & Kuo, C. C. J. (2024). Bias and fairness in chatbots: An overview. APSIPA Transactions on Signal and Information Processing, 13(2), e64. https://doi.org/10.1561/116.00000064
+<p align="justify">
+Zajko, M. (2022). Artificial intelligence, algorithms, and social inequality: Sociological contributions to contemporary debates. Sociology Compass, 16(3), e12962. https://doi.org/10.1111/soc4.12962 
   x 
 
