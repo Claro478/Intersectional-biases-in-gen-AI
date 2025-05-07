@@ -1,4 +1,4 @@
-
+<img width="1051" alt="grafik" src="https://github.com/user-attachments/assets/9525c73a-96e9-4c32-9677-06a3adfcb988" />
 # Intersectional biases in generative AI
 #### Clarissa Roth, Gabriella Cohen, Emilia Seissus-Ercilla, Maya Moussa, Shona Geoghegan – Spring 2025
 
@@ -156,7 +156,30 @@ Yet, there are new models constantly being introduced and using these more stati
 <a name="quantmethod"></a>
 <h3> 3.1. Quantitative Methodology</h3>
 <p align="justify"> 
-Para 1.
+The quantitative analysis of this research is meant to particularly assess what each of the selected three chatbot would reply to when presented with different job profiles and the question to suggest intersectional characteristics of those jobs, particularly on the topics of gender, race, social class and physical disability.
+<p align="justify"> 
+<h4> 3.1.1 Job Selection</h3>
+ <p align="justify">
+To approach the problem, following the identification of the three chatbots above, this study first selected a range of jobs. For that, the International Labor Organization’s International Standard Classification of Occupations published in 2008 was used, known as the ISCO-08. ISCO-08 structures jobs and occupations across different major groups (e.g., professionals, technicians) and different skill levels (Level 1 to 4, with Level 4 being the highest) (International Labour Organization, n.d.). To ensure diversity in the type of jobs selected,  five jobs were picked from different major groups and levels of skills. Additionally, the study also adds ‘stay at home parent’ as a sixth category assessed to detect biases that chatbots could have to unemployed individuals, particularly parents. Earlier in society, individuals would assume that a couple was predominantly a male and female, with the stay at home parent predominantly a woman (McMahon, 2024). This study aims to test whether chatbots would harbor similar patterns of assumptions. 
+<p align="justify">
+ Accordingly, the selected jobs were : 
+<p align="justify">
+ 
+ |Job|ISCO-08 Code|
+ |---|---|
+ |Legislator|1111|
+ |Medical Doctor| 2211 |
+|Primary School Teacher| 2341|
+|Software Engineer |2512|
+|Cleaner| 9112|
+|Stay at Home Parent |N/A|
+<p align="justify">
+
+
+ 
+ 
+<p align="justify">
+<p align="justify">
   
 <a name="qualmethod"></a>
 <h3> 3.2. Qualitative Methodology</h3>
