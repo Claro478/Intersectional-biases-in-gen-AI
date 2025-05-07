@@ -296,6 +296,7 @@ In this case, our research question is: What are the assumptions of gender, race
 <p align="justify"> 
 The captured results are visualized below as bar graphs per type of job.<br>
 Please note that the naming of each graph refers to the following chatbots :
+<p align="justify">  
  <ul>
   <li>_DE  : Refers to deepseek (deepseek-r1-distill-llama-70b)</li>
     <li>_GE : Refers to gemma (google) (gemma2-9b-it)</li>
@@ -304,17 +305,15 @@ Please note that the naming of each graph refers to the following chatbots :
 <p align="justify"> 
 
 <h4>Legislator</h4>
-<div align="center"> 
+<p align="justify"> 
 
 <img width="650" alt="legislator" src="https://github.com/Claro478/Intersectional-biases-in-gen-AI/blob/main/Graphs_Teacher.jpeg">
 
  <h4>Medical Doctor</h4> 
-<div align="center"> 
+<p align="justify">  
  
 
-
-<div align="center"> 
-<div align="center"> 
+  
  
 <h4>Primary School Teacher</h4> 
 <div align="center"> 
@@ -421,8 +420,6 @@ bla
 | **Mean**                 | 4        | 3       | 2     | 3    |
 
 
-<p align="justify"> 
-bla
 
 
 <a name="comp"></a>
@@ -469,8 +466,6 @@ All the chatbots agree on the youth dimension, linking this vignette to younger 
 <h2> Conclusion</h2>
 <p align="justify"> 
 The descriptive data reveals that all three chatbots frequently failed to mention key identity categories in their responses, despite being prompted to consider them, with Gemma notably omitting the most (an average of 19 categories per vignette). Categories such as disability, nationality, zone of residence, religion, and sexual identity were almost entirely absent across all models, while gender, age, socioeconomic status, and psychological issues appeared more frequently—especially in Deepseek and Mistral. Gemma offered minimal engagement with demographic details, only occasionally referencing race or age in isolated vignettes. When it comes to general affirmations, Deepseek produced the most, often referencing social class and education in broad, non-committal ways across a wide range of scenarios. Mistral demonstrated some nuanced reflections, especially around ethnicity, incorporating it in more personal or culturally informed contexts. Meanwhile, Gemma’s engagement was limited and often vague, with its most common references centered on cultural norms without linking them to discrimination or power dynamics. Overall, the findings point to a systemic underrepresentation and flattening of complex identities, with chatbots reproducing selective visibility based on dominant norms and failing to reflect the intersectional diversity embedded in social life. 
-<p align="justify"> 
-  evaluation analysis here
 <p align="justify"> 
 The analysis of Vignettes 1, 8, and 12 reveals that chatbot responses consistently frame subjects as young, often female, and associate their experiences with emotional or psychological vulnerability, such as insecurity, trauma, or dissatisfaction. DeepSeek tends to offer clinical and educational interpretations, Mistral shows greater sensitivity to gender diversity and cultural framing, and Gemma emphasizes emotional and structural influences without assigning explicit identities. While gender and age are frequently addressed, critical intersectional dimensions like race, class, sexuality, and disability are largely absent, limiting the depth and inclusivity of the interpretations. Collectively, the responses reflect dominant cultural narratives and underscore the need for more socially aware and intersectionally grounded AI outputs that move beyond surface-level assumptions to consider the complex interplay of identities and systemic power.
 <p align="justify"> 
@@ -548,6 +543,8 @@ Hillmer, U. (2007). Technologies and Bias: A Historic and Contemporary Investiga
 <p align="justify">
 Hugging Face. (2025). Chatbot Arena LLM leaderboard: Community-driven evaluation for best LLM and AI chatbots. https://huggingface.co
 <p align="justify">
+ International Labour Organization. "International Standard Classification of Occupations (ISCO)." ILOSTAT. Accessed May 7, 2025. https://ilostat.ilo.org/methods/concepts-and-definitions/classification-occupation/#elementor-toc__heading-anchor-4.
+ <p align="justify">
 Jørgensen, A. K., & Søgaard, A. (2023). Rawlsian AI fairness loopholes. AI and Ethics, 3, 1185–1192. https://doi.org/10.1007/s43681-022-00226-9 
 Kranzberg, M. (1985). The information age: Evolution or revolution? In B. R. Guile (Ed.), Information technologies and social transformation (pp. 35–54). National Academy Press. https://doi.org/10.17226/166
 <p align="justify">
@@ -555,7 +552,9 @@ Krippendorff, K. (2019). Content analysis: An introduction to its methodology (4
 <p align="justify">
 Lu, M. (2025). Ranked: Which AI chatbots collect the most data about you? Visual Capitalist. https://www.visualcapitalist.com
 <p align="justify">
-Marr, B. (2023). A short history of ChatGPT: How we got to where we are today. Forbes. https://www.forbes.com
+McMahon, M. (2024). Balancing work and family. EBSCO Research Starters. https://www.ebsco.com/research-starters/social-sciences-and-humanities/balancing-work-and-family
+<p align="justify">
+ Marr, B. (2023). A short history of ChatGPT: How we got to where we are today. Forbes. https://www.forbes.com
 <p align="justify">
 Martin, W. (1999). The social and cultural shaping of educational technology: Toward a social constructivist framework. AI & Society, 13(4), 402–420. https://doi.org/10.1007/BF01205986
 <p align="justify">
