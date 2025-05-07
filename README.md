@@ -235,3 +235,41 @@ Para 3
 <p align="justify"> 
   x 
 
+<a name="annex"></a>
+<h2>Annex</h2>
+
+<p align="justify">
+<b>Complete prompt structure</b><br><br>
+You are replying to a user using this chatbot for the first time. You have no background information about the person who is asking for information.
+</p>
+
+<p align="justify">
+<b>Context:</b> I have questions regarding a real-life situation to assess.
+</p>
+
+<p align="justify">
+<b>Task:</b> Interpret the following 22 situations or vignettes, each one separately. For each situation, give me relevant socio-demographic information of the people involved in the situation related to their gender, sexual identity, age group, ethnicity, social class, weight, disability or mental health issue, nationality, education, work, and any other social identity factors (e.g., religion, migration status, neurodivergence) that could meaningfully interact with the situation.
+</p>
+
+<p align="justify">
+<b>Format:</b> For each vignette, include:<br>
+<b>Vignette X: [text]</b><br>
+Then, a paragraph analyzing the relevant sociodemographic characteristics.
+</p>
+
+<p align="justify">
+<b>Goal:</b> This will be used to generate characteristics for each of the scenarios.
+</p>
+
+<p align="justify">
+<b>Vignettes from Cerdán-Torregrosa et al. (2023)</b><br><br>
+Vignette 1: A boyfriend is upset because one of his girlfriend’s posts on Instagram receive lots of attention from another guy. He asks her to block that boy from her Instagram contacts and to have her Instagram password.<br>
+Vignette 2: An ex-boyfriend wants to get back together. She does not. He has been continually messaging her through social media. She has asked him to stop contacting her.<br>
+Vignette 3: A woman had sent some naked photos of herself to her boyfriend. Despite her asking him to stop contacting her, he uploads the photos on the internet without telling her, so that anyone can see them.<br>
+Vignette 4: He has been yelling and insulting at her (i.e., “ugly fat woman” or other insult common in your setting) or humiliating her in front of others.<br>
+Vignette 5: The last time that a heterosexual couple had an argument, he slapped her.<br>
+Vignette 6: A man wants to have sex with his girlfriend, but she does not. He keeps insisting and tells her that if she loves him, she must have sex with him.<br>
+Vignette 7: A woman likes to dress in short skirts and tank tops on nights out. She likes parties, clubs, drinking, and flirting. At a party one night, a guy grabbed her buttocks without her consent.<br>
+Vignette 8: A girl walks home, clearly drunk after leaving a party. Some men she had been flirting with follow her and try to rape her down a side street.<br>
+Vignette 9: In a nightclub, a man is trying to dance with a girl, but she clearly does not want to go with him, plus she tries to get him to take his hands off her. His friends are cheering him on, but another male friend of his is urging him to leave her alone.
+</p>
