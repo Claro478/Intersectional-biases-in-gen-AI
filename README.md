@@ -17,9 +17,9 @@
 
 [4. Analysis and Discussion](#analysisanddiscussion)
 
-[4.1 Quantitative Analysis](#quantanalysis)
+[4.1 Quantitative Results](#quantanalysis)
 
-[4.2 Qualitative Analysis](#qualanalysis)
+[4.2 Qualitative Results](#qualanalysis)
 
 [4.2.1 Descriptive Analysis](#descriptanalysis)
 
@@ -179,7 +179,7 @@ In this case, our research question is: What are the assumptions of gender, race
 <h2> Analysis and Discussion </h2>
 
 <a name="quantanalysis"></a>
-<h3> 4.1 Quantitative Analysis</h3> 
+<h3> 4.1 Quantitative Results</h3> 
 
 <div align="center"> 
   
@@ -190,7 +190,7 @@ In this case, our research question is: What are the assumptions of gender, race
 </div> 
 
 <a name="qualanalysis"></a>
-<h3> 4.2 Qualitative Analysis</h3> 
+<h3> 4.2 Qualitative Results</h3> 
 
 <a name="descriptanalysis"></a>
 <h4> 4.1.1 Descriptive Analysis</h4> 
