@@ -16,6 +16,59 @@
 [3.2. Qualitative Methodology](#qualmethod)
 
 [4. Analysis and Discussion](#analysisanddiscussion)
+## 4.1 Quantitative Analysis
+## 4.2. Qualitative Analysis
+
+### 4.1.1 Descriptive Analysis
+First, the table shows the number of missing categories in the replies of the different chatbots, even though they were asked to give an answer about them. The chatbots did not provide descriptive information about a huge number of categories. For some of them, none or almost none of the 22 vignettes were described with a person related to those categories. This is the case for disability, nationality, zone of residence, religion, and sexual identity. On the other hand, the categories that were used broadly by the chatbots are gender, socio-economic status, economic status, age, and psychological issues.
+Gemma is the chatbot with the largest number of missing categories, with an average of 19 missing. In contrast with Deepseek and Mistral, Gemma tries not to talk, even in a generic manner, of ethnicity (21 missing), gender (21 missing), socioeconomic status (21 missing), and even age (16 missing). These categories are considered more in the other chatbots.
+The only time Gemma stated something about ethnicity was related to vignette 19, “Someone books an Airbnb and their booking gets rejected by the owner once they see the person’s profile.” In this case, it assesses the situation as a possible “discrimination based on ethnicity or race identity.” This was the same assessment for gender in this case.
+Vignette 22 talks about someone touching another person's hair. In this case, Gemma´s reply is that “social norms around physical touch can vary greatly, and it's essential to respect individual boundaries”. The last example is about her assessment of how “age could play a role” in vignette 10 about worrying if your outfit is appropriate for the event.
+
+#### N° of missing categories
+
+| Category               | Deepseek | Mistral | Gemma | Mean |
+|------------------------|----------|---------|--------|------|
+| Disability             | 22       | 21      | 22     | 22   |
+| Nationality            | 20       | 22      | 22     | 21   |
+| Zone of residence      | 22       | 19      | 22     | 21   |
+| Religion               | 22       | 19      | 22     | 21   |
+| Sexual Identity        | 22       | 18      | 22     | 21   |
+| Culture                | 22       | 16      | 18     | 19   |
+| Ethnicity              | 14       | 16      | 21     | 17   |
+| Gender                 | 9        | 12      | 21     | 14   |
+| Socioeconomic Status   | 1        | 19      | 21     | 13   |
+| Age                    | 1        | 9       | 16     | 9    |
+| Psychological issues   | 6        | 11      | 6      | 8    |
+| **Mean**               | **15**   | **16**  | **19** | **17** |
+
+Second, we review the quantity of general affirmations mentioned by each chatbot. The average of general affirmations for the different categories in the three chatbots is 2. However, this number hides a bunch of different scenarios.  Deepseek appears to be the chatbot that has more generic affirmations, with a mean of 4 for all the categories and the largest amount of general affirmations for socioeconomic status, which are just mentioned in this way 3 times in Mistral and only once in Gemma. Deepseek refers to socioeconomic status in general terms as “social class” and “education level”, most of the time by itself, but sometimes together.
+In particular, social class is seen as influential in the party or club environment in vignettes 7, 8, and 9 related to drinking scenarios, related to “grabbed their buttocks without consent”, “trying to assault” a person walking home, or “trying to dance” with someone who does not want to. Also, according to Deepseek, social class might influence the interactions with law enforcement, car ownership, cultural norms around personal space, food preferences, views on stable jobs, weight perceptions, self-awareness, fashion choices, information on healthy relationship, access to resources or awareness about abuse, the listings for airbnb they can afford, access to a garden, neighborhood safety and access to media. In the case of Education level, it is referred to as affecting “understanding of privacy laws and digital rights” in vignette 3, “self-awareness” in vignette 11, and “how complaint is handled” in vignette 18 about having problems with the smells while living with other people. It is interesting that Deepseek sees social class or education influence in almost all of the scenarios presented, but never takes a specific position regarding them.  It does not state clearly if social class influences the scenarios; it just states that it has an influence on them. Deepseek tried to be as neutral as possible, acknowledging that the issue is related. 
+On the other hand, Gemma just addresses social class once in vignette 22 (as stated above), and Mistral did it in a general way in vignette 7. This scenario talks about a person who likes to dress in short skirts and tank tops when going out, Mistral assesses that in some “social group context, these types of clothing are perceived as having obvious sexual implications”. It is broad in defining the social group, but it clearly specifies that dressing in a short skirt and a tank top implies that the person wearing it is looking for sexual intercourse. This clearly makes a stereotypical statement from a gender point of view, even higher since it is understood as a woman in an urban environment.
+Deepseek also refers to ethnicity in a general manner more than Mistral and Gemma, with 7 broad affirmations. It tends to be related to cultural dress norms (vignette 10), safety perceptions of certain areas (vignette 14), and food preferences (vignette 17 and 18). But, at the same time, ethnicity relates 2 times to discrimination issues, by getting rejected by Airbnb in vignette 19 and being targeted by police control in vignette 20. In Mistral´s case, ethnicity is also the category with more general affirmations, in this case, 5 times. The bigger difference is that the french chatbot refers to ethnicity in a more personal way with statements like “"navigating identity as well as ethnic identity can be a difficult task” in vignette 11 (about confident issues with friends at a bar) and “pursuing a creative career with class, race, and ethnic impacts on individuals identifying as an artist” in vignette 16. It also sees ethnicity as an issue while dating and ending a relationship in vignette 2 in cases where “may be culturally associated with high levels of shame or disgrace, and relationship dissatisfaction and rejection are perceived as failure”.
+
+In the case of Gemma, the category that is more used is culture, where it tends to be referred to as cultural differences without making a statement referring to discrimination or references to hegemonic culture. The statements are “The individual asking might have a different cultural background” while asking “why is your lunch so smelly”(vignette 17), this could be a reflection of differing cultural norms while complying of “cooking strong-smelling things” (vignette 18) and potentially politeness norms in different cultures while “sks a car driver that leaves their engine running while standing to shut the engine off” (vignette 21).
+
+#### How often did each chatbot mention general affirmations from each category?
+
+| Category               | Deepseek | Mistral | Gemma | Mean |
+|------------------------|----------|---------|--------|------|
+| Socioeconomic Status   | 21       | 3       | 1      | 8    |
+| Ethnicity              | 7        | 5       | 1      | 4    |
+| Culture                | 0        | 5       | 4      | 3    |
+| Gender                 | 6        | 2       | 1      | 3    |
+| Psychological issues   | 3        | 3       | 0      | 2    |
+| Age                    | 4        | 0       | 1      | 2    |
+| Religion               | 0        | 3       | 0      | 1    |
+| Nationality            | 2        | 0       | 0      | 1    |
+| Disability             | 0        | 1       | 0      | 0    |
+| Sexual Identity        | 0        | 1       | 0      | 0    |
+| Zone of residence      | 0        | 0       | 0      | 0    |
+| **Mean**               | **4**    | **2**   | **1**  | **2** |
+
+### 4.1.2 Analysing Chatbot evaluations of intersecting identities in ‘grey zone’ situations
+
+
 
 [5. Conclusion](#conclusion)
 
