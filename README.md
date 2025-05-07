@@ -85,7 +85,30 @@ Para 1.
 <a name="qualmethod"></a>
 <h3> 3.2. Qualitative Methodology</h3>
 <p align="justify"> 
-Para 1.
+The qualitative part of this research examines how different AI Chatbots respond to prompts involving ‘grey zone’ scenarios to how they might reproduce (also by omission) intersecting stereotypes and discrimination in their answers. For the project, we understand ‘grey zone’ situations, as ranging from (racial) microaggressions, sexual harassment or psychological violence, to “simple” stereotypes about hobbies. These ‘grey zone’ and microaggression scenarios are often not viewed as violent and discriminatory despite representing oppressive contexts, conveying the systemically reproductiveness of patriarchal, racist and other power relations  within ‘grey zones’. Following the data feminist and intersectional theoretical frameworks, this is important to highlight the intersecting power relations, hierarchies and binaries that AI Chatbots might produce. 
+<p align="justify"> 
+<h5> Generate the data </h5> 
+To understand the chatbots’ perception of intersectional ‘grey zone’ situations, this study uses the same prompt structure in the 3 chatbots analysed -Deepseek, Mistral, and Gemma- to generate the data to examine through a content analysis (specified in the next section). The prompt structure is the following:
+<p align="justify"> 
+<ul>
+  <li>You are replying to a user using this chatbot for the first time. You have no background information about the person who is asking for information.</li>
+  <li>Context: I have questions regarding a real-life situation to assess.</li>
+  <li>Task: Interpret the following 22 situations or vignettes, each one separately. For each situation, give me relevant socio-demographic information of the people involved in the situation related to their gender, sexual identity, age group, ethnicity, social class, weight, disability or mental health issue, nationality, education, work, and "...and any other social identity factors (e.g., religion, migration status, neurodivergence) that could meaningfully interact with the situation. </li>
+  <li> [Here go the 22 vignettes]</li>
+    <li> Requirements </li>
+    <ul>
+      <li>Format: For each vignette, include: </li>
+      <li>**Vignette X: [text]** </li>
+      <li> Then, a paragraph analyzing the relevant sociodemographic characteristics.</li>
+    </ul>
+  </li>
+  <li>Goal: This will be used to generate characteristics for each of the scenarios.</li>
+</ul> 
+
+<p align="justify"> 
+The prompt structure asks for replying to a user using this chatbot for the first time without any background information about the person who is asking for information, which was defined like that to address the bias, per se, present in the chatbot. Without any interference from the people that are asking the questions, just to have a look at the assumptions it made. In the same manner, all the vignettes are asked to be evaluated separately to retrieve a specific answer to each scenario for the analysis and not contaminate the results.  The goal told to the chatbot is to generate characteristics for each of the scenarios, to avoid the chatbot from realizing it has been audited.
+This prompt was applied first in chat.gpt to have a preliminary idea of how it works and improve it. Followed by using the prompt one time in each of the analysis chatbots.
+
 
 
 <a name="analysisanddiscussion"></a>
