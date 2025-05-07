@@ -185,9 +185,15 @@ To approach the problem, following the identification of the three chatbots abov
 "Start your response directly with the table. No introduction or commentary."
 </i>
 <p align="justify">
-Additionally, the chatbot is asked to act as if : <i>"You are replying to a user using this chatbot for the first time. You have no background information of the person that is asking information.’’ </i> This is done to address any potential biases that the chatbots may have. 
+Additionally, the chatbot is asked to act as if : <i>"You are replying to a user using this chatbot for the first time. You have no background information of the person that is asking information.’’ </i> This is done to address any potential biases that the chatbots may have.
 
-
+<h4> 3.1.3 Data Collection</h3>
+<p align="justify">
+To collect the data, the website groq was used. Each chatbot was prompted 100 times for each type of job and the data was collected in a .table format and stored in a csv format for each request. This resulted in 600 prompts per chatbot, for 3 chatbots - for a total of 1800 data pulls. 
+<p align="justify">
+Following the data collection process, the files were manually cleaned as the tables presented by the chatbots had minor errors within them with regards to column distribution of some answers. Some also had missing inputs left as blank, which were kept in the dataset for accurate representation of responses. 
+<p align="justify">
+The results were then analysed using python for data analysis and graph generation. Data was visualized in bar graphs to make sure all different combinations generated were captured to be able to assess the intersectional identities suggested by each chatbot for each profile. 
   
 <a name="qualmethod"></a>
 <h3> 3.2. Qualitative Methodology</h3>
@@ -196,7 +202,7 @@ The qualitative part of this research examines how different AI Chatbots respond
 <p align="justify"> 
 
   
-<h4> Prompt </h4> 
+<h4> 3.2.1 Prompt </h4> 
 To understand the chatbots’ perception of intersectional ‘grey zone’ situations, this study uses the same prompt structure in the 3 chatbots analysed -Deepseek, Mistral, and Gemma- to generate the data to examine through a content analysis (specified in the next section). The prompt structure is the following:
 <p align="justify"> 
 <ul>
@@ -219,7 +225,7 @@ The prompt structure asks to reply to a user using this chatbot for the first ti
 This prompt was applied first in chat.gpt to have a preliminary idea of how it works and improve it. Followed by using the prompt one time in each of the analysis chatbots.
 
 
-<h4>Scenarios</h4>
+<h4> 3.2.2 Scenarios</h4>
 <p align="justify">
 We generated the vignettes in two different ways. For the first 9 scenarios, we retrieved the vignettes created by Ariadna Cerdán-Torregrosa, Krizia Nardini, and Carmen Vives-Cases (2023) in their research in Spain among young people to explore grey zones in gender-based violence (GBV) in semi-structured interviews and focus groups. This enabled us to use already validated scenarios. However, since the original vignettes contained genders, we changed them into gender neutral terms such as ‘someone’, ‘an individual’, ‘a person’. 
 
@@ -255,7 +261,7 @@ From here, we added 13 other vignettes created by us related to internalised rac
    <li><b> Vignette 22 </b> Someone tells another person: “Oh your hair is so nice” and proceeds to touch it. </li>
 </ul>
 
-<h4>Content Analysis</h4>
+<h4>3.2.3 Content Analysis</h4>
 <p align="justify"> 
 Content analysis is a systematic and replicable technique for compressing large volumes of textual information into fewer content categories based on explicit coding rules that involves interpreting the meaning behind the content of text data, whether manifest (explicit) or latent (implicit), and is applicable to a wide range of communication forms such as written documents, media transcripts, or online content (Krippendorff, 2018). The method is particularly valuable in qualitative research for uncovering patterns, themes, or biases embedded in communication, offering both flexibility and rigor. Its strength lies in its adaptability; by ensuring consistency in coding and interpretation, content analysis allows for meaningful comparisons across different sources or contexts.
 <p align="justify"> 
@@ -283,12 +289,25 @@ In this case, our research question is: What are the assumptions of gender, race
 
 
 <a name="analysisanddiscussion"></a>
-<h2> Analysis and Discussion </h2>
+<h2> 4. Analysis and Discussion </h2>
 
 <a name="quantanalysis"></a>
 <h3> 4.1 Quantitative Results</h3> 
+<div align="center"> 
+The captured results are visualized below as bar graphs per type of job.<br>
+Please note that the naming of each graph refers to the following chatbots :
+ <ul>
+  <li>_DE  : Refers to deepseek (deepseek-r1-distill-llama-70b)</li>
+    <li>_GE : Refers to gemma (google) (gemma2-9b-it)</li>
+    <li>_ MI : Refers to mistral (mistral-saba-24b)</li>
+ </ul>
+
+ 
+ 
+
 
 <div align="center"> 
+<div align="center"> <div align="center"> 
   
 <img width="650" alt="figure 1" src="https://github.com/Claro478/Intersectional-biases-in-gen-AI/blob/main/Graphs_Teacher.jpeg">
   
