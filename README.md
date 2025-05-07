@@ -1,6 +1,6 @@
 
 # Intersectional biases in generative AI
-#### C. Roth, E. Cohen, E. Seissus-Ercilla, M. Moussa, S. Geoghegan – Spring 2025
+#### C. Roth, G. Cohen, E. Seissus-Ercilla, M. Moussa, S. Geoghegan – Spring 2025
 
 
 <h2> Table of Contents</h2>
@@ -27,7 +27,7 @@
 <h2>Introduction</h2>
 
 <p align="justify"> 
-Intropara 1. 
+Intropara 1.
 <p align="justify">  
 Intopara2. 
 
@@ -39,7 +39,7 @@ Intro to lit rev / overview.
   
 <h4> 2.1 First theme</h4>
 <p align="justify"> 
-Explainign 1st theme. 
+Explaining 1st theme. 
 
 <h4> 2.2 2nd theme</h4>
 <p align="justify"> 
