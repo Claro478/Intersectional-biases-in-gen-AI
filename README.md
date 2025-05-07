@@ -74,7 +74,7 @@ The proliferation of AI-powered chatbots has intensified scholarly concerns abou
 This literature review synthesises key theoretical frameworks and empirical studies that interrogate how bias manifests in chatbots and examines efforts to mitigate such harms through both technical and governance interventions. 
 
   
-<h3> 2.1 2.1 Technical and Computational Concepts</h3>
+<h3> 2.1 Technical and Computational Concepts</h3>
 <p align="justify"> 
 The technical and computational foundations of AI bias provide essential insight into the mechanisms through which discrimination arises and persists in chatbots (Min, 2023; Bhambri and Rani, 2024; Xue, et al., 2024). A central concern relating to this is the concept of algorithmic bias, which refers to systematic and repeatable errors in computational systems that generate unfair outcomes, disproportionately affecting particular social groups (Bradley and Alhajjar, n.d). The emergence of algorithmic bias typically originates from biased training data or flawed algorithmic assumptions (Fuchs, 2018; Xue, et al., 2024), perpetuating historical inequalities related to gender, race, class, ability, and political inclination (Bose, 2025). Scholars emphasise the critical importance of examining datasets and algorithm design choices, arguing that these biases are not inherent to computational systems but reflect deeper societal prejudices (Bose, 2025). 
  <p align="justify"> 
@@ -107,6 +107,7 @@ Despite these limitations, many measurement frameworks have emerged, including t
   <p align="justify">
   AI ethics is an ever-growing field and taking an intersectional approach is vital so as to move beyond a focus of gender inequality. Garg et al.’s work on word embeddings is useful for its intersectional approach to comparing embeddings with demographic trends in occupational participation (2017). They quantify 100 years of gender and ethnic stereotyping by measuring the strength of association (embedding bias) between neutral words and groups. Their research displays that biases can indeed be rectified through a technological approach which is what this paper aims to replicate. 
   <p align="justify">
+   
 <h4> 2.3 Ethical Theories</h4>
  <p align="justify">
 The development and deployment of AI-powered chatbots have evidently raised fundamental ethical questions about not only harm, justice, and accountability, but also whose experiences are prioritised or erased in automated systems. While technical fixes for algorithmic bias often dominate public discourse, such approaches overlook the normative tensions that underlie design decisions (Ulnicane & Aden, 2023). The use of ethical and normative theories provide critical frameworks for interrogating what constitutes fair or responsible AI (Xue et al., 2021; Ulnicane & Aden, 2023) as well as whose lives are centered or marginalised. These frameworks reveal that ethics in AI is a contested terrain that is shaped by divergent philosophical traditions, political ideologies, and cultural assumptions (Ulnicane & Aden, 2023). This becomes particularly apparent when analysing how AI-powered chatbots operationalise social categories in generating responses. 
