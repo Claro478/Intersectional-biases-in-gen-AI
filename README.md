@@ -1,6 +1,6 @@
 
 # Intersectional biases in generative AI
-#### C. Roth, G. Cohen, E. Seissus-Ercilla, M. Moussa, S. Geoghegan – Spring 2025
+#### Clarissa Roth, Gabriella Cohen, Emilia Seissus-Ercilla, Maya Moussa, Shona Geoghegan – Spring 2025
 
 
 <h2> Table of Contents</h2>
@@ -16,11 +16,15 @@
 [3.2. Qualitative Methodology](#qualmethod)
 
 [4. Analysis and Discussion](#analysisanddiscussion)
-## 4.1 Quantitative Analysis
-## 4.2. Qualitative Analysis
+<a name="analysisanddiscussion"></a>
+<h2> 4.1 Quantitative Analysis</h2> 
 
-### 4.1.1 Descriptive Analysis
+<h2> 4.2 Qualitative Analysis</h2> 
+
+<h3> 4.1.1 Descriptive Analysis</h3> 
+<p align="justify"> 
 First, the table shows the number of missing categories in the replies of the different chatbots, even though they were asked to give an answer about them. The chatbots did not provide descriptive information about a huge number of categories. For some of them, none or almost none of the 22 vignettes were described with a person related to those categories. This is the case for disability, nationality, zone of residence, religion, and sexual identity. On the other hand, the categories that were used broadly by the chatbots are gender, socio-economic status, economic status, age, and psychological issues.
+<p align="justify"> 
 Gemma is the chatbot with the largest number of missing categories, with an average of 19 missing. In contrast with Deepseek and Mistral, Gemma tries not to talk, even in a generic manner, of ethnicity (21 missing), gender (21 missing), socioeconomic status (21 missing), and even age (16 missing). These categories are considered more in the other chatbots.
 The only time Gemma stated something about ethnicity was related to vignette 19, “Someone books an Airbnb and their booking gets rejected by the owner once they see the person’s profile.” In this case, it assesses the situation as a possible “discrimination based on ethnicity or race identity.” This was the same assessment for gender in this case.
 Vignette 22 talks about someone touching another person's hair. In this case, Gemma´s reply is that “social norms around physical touch can vary greatly, and it's essential to respect individual boundaries”. The last example is about her assessment of how “age could play a role” in vignette 10 about worrying if your outfit is appropriate for the event.
@@ -130,11 +134,6 @@ Para 1.
 <p align="justify"> 
 Para 1.
 
-
-<a name="analysisanddiscussion"></a>
-<h2> 4. Analysis and Discussion</h2>
-<p align="justify"> 
-Para 1.
   
 <h4> 4.1. First insight</h4>
 <p align="justify"> 
