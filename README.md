@@ -23,9 +23,7 @@
 
 [4.2.1 Descriptive Analysis](#descriptanalysis)
 
-[4.2.2 Evaluative Analysis of 'grey zone' situations](#evalanalysis)
-
-[4.3 Comparison](#comp)
+[4.2.2 Top Vignettes Across Chatbots: An Intersectional Comparison](#comp)
 
 [5. Conclusion](#conclusion)
 
@@ -307,12 +305,13 @@ Please note that the naming of each graph refers to the following chatbots :
 <h4>Legislator</h4>
 <div align="center"> 
 
-<img width="650" alt="legislator" src="https://github.com/Claro478/Intersectional-biases-in-gen-AI/blob/main/Graphs_Teacher.jpeg">
+<img width="650" alt="legislator" src="https://github.com/Claro478/Intersectional-biases-in-gen-AI/blob/main/Graphs_legislator.jpeg">
   
 <br/>  
 <i>Figure 1: Suggested personas for legislator.</i>
 </div> 
 
+<p align="justify">
 <p align="justify"> 
 Deepseek predominantly profiles legislators as ‘White, Female and Upper Middle Class’ with about 60% of data requests returning this result. Additionally, it suggests that the characteristics of about 10% of requests are ‘White, Male, Upper Middle Class, and another 10% are White, Female and Middle Class’. The remaining data points are distributed. Other identities mentioned are ‘Black’ and ‘Hispanic/Latino’ in terms of race. ‘Non-binary’ as a gender identity is mentioned once. Deepseek does suggest that legislators could have a physical disability (less than 10% of the cases). 
 <p align="justify"> 
@@ -328,12 +327,13 @@ Gemma’s distribution for legislators is distributed with about 35% set as ‘W
 <h4>Medical Doctor</h4> 
 <div align="center"> 
   
-<img width="650" alt="primary school teacher" src="https://github.com/Claro478/Intersectional-biases-in-gen-AI/blob/main/Graphs_Teacher.jpeg">
+<img width="650" alt="primary school teacher" src="https://github.com/Claro478/Intersectional-biases-in-gen-AI/blob/main/Graphs_doctor.jpeg">
   
 <br/>  
 <i>Figure 1: Suggested personas for medical doctor.</i>
 </div> 
 
+<p align="justify">
 <p align="justify">
 Deepseek predominantly profiles medical doctors as ‘White, Female and Upper Middle Class’ with about 70% of data requests returning this result. Additionally, it suggests that the characteristics of about 10% of requests are ‘White, Male, Upper Middle Class, and another 10% are ‘Asian, Female and Upper Middle Class’. The remaining data points are distributed, with no major statistical significance. Other identities mentioned focus on ‘Asian’ as a race, with ‘Black’ and ‘Hispanic/Latino’ mentioned once each.
 <p align="justify">
@@ -356,6 +356,7 @@ The results highlight that Deepseek and Gemma lean towards White, Female and Upp
 </div> 
 
 <p align="justify">
+<p align="justify">
 Deepseek classifies primary school teachers as ‘White, Female, Middle class’ in more than 85% of the cases with no disabilities. The remaining few cases are Hispanic/Latino, Female, Middle and one case of ‘White, Female, Upper Middle’ - which are not significant. 
 <p align="justify">
  In Gemma, in 99% of the cases, teachers are also classified as ‘White, Female, Middle class’ with no physical disability. 
@@ -367,11 +368,12 @@ Deepseek classifies primary school teachers as ‘White, Female, Middle class’
 <h4>Software Engineer</h4> 
 <div align="center"> 
  
-<img width="650" alt="software engineer" src="https://github.com/Claro478/Intersectional-biases-in-gen-AI/blob/main/Graphs_Teacher.jpeg">
+<img width="650" alt="software engineer" src="https://github.com/Claro478/Intersectional-biases-in-gen-AI/blob/main/Graphs_engineer.jpeg">
 <br/>  
 <i>Figure 1: Suggested personas for software engineer</i>
 </div> 
 
+<p align="justify">
 <p align="justify">
  Deepseek suggests that in about 55% of the cases asked for software engineers are ‘White, Male, Upper Middle’ while 20% are ‘Asian, Male, Upper Middle’ and almost 15%+ are ‘White, Male, Middle’. Deepseek predominantly suggests that engineers would not have physical disabilities in 98% of the cases.
 <p align="justify">
@@ -381,11 +383,12 @@ Deepseek classifies primary school teachers as ‘White, Female, Middle class’
 
 <h4>Cleaner</h4> 
 <div align="center">
- <img width="650" alt="cleaner" src="https://github.com/Claro478/Intersectional-biases-in-gen-AI/blob/main/Graphs_Teacher.jpeg">
+ <img width="650" alt="cleaner" src="https://github.com/Claro478/Intersectional-biases-in-gen-AI/blob/main/Graphs_cleaner.jpeg">
 <br/>  
 <i>Figure 1: Suggested personas for Cleaner</i>
 </div> 
 
+<p align="justify">
 <p align="justify">
 In about 80% of cases, Deepseek replied with ‘Hispanic/Latino, Female, Working’ for the cleaner profile, 5% of which are classified as having physical disabilities.
 <p align="justify">
@@ -395,11 +398,12 @@ In about 80% of cases, Deepseek replied with ‘Hispanic/Latino, Female, Working
 
 <h4>Stay-at-home-parent</h4> 
 <div align="center"> 
-<img width="650" alt="stay at home parent" src="https://github.com/Claro478/Intersectional-biases-in-gen-AI/blob/main/Graphs_Teacher.jpeg">
+<img width="650" alt="stay at home parent" src="https://github.com/Claro478/Intersectional-biases-in-gen-AI/blob/main/Graphs_stayathomeparent.jpeg">
 <br/>  
 <i>Figure 1: Suggested personas for Stay-at-home-parent</i>
 </div> 
 
+<p align="justify">
 <p align="justify">
 For more than 85% of the cases, Deepseek suggests that a stay at home parent is ‘White, Female, Middle class’ with no physical disabilities. 
 <p align="justify">
@@ -427,7 +431,7 @@ This study showcases that chatbots do potentially harbor biases across the inter
 <h3> 4.2 Qualitative Results</h3> 
 
 <a name="descriptanalysis"></a>
-<h4> 4.1.1 Descriptive Analysis</h4> 
+<h4> 4.2.1 Descriptive Analysis</h4> 
 <p align="justify"> 
 First, the table shows the number of missing categories in the replies of the different chatbots, even though they were asked to give an answer about them. The chatbots did not provide descriptive information about a huge number of categories. For some of them, none or almost none of the 22 vignettes were described with a person related to those categories. This is the case for disability, nationality, zone of residence, religion, and sexual identity. On the other hand, the categories that were used broadly by the chatbots are gender, socio-economic status, economic status, age, and psychological issues.
 <p align="justify"> 
@@ -480,33 +484,10 @@ In the case of Gemma, the category that is more used is culture, where it tends 
 | Zone of residence      | 0        | 0       | 0      | 0    |
 | **Mean**               | **4**    | **2**   | **1**  | **2** |
 
-<a name="evalanalysis"></a>
-<h4> 4.1.2 Analysing Chatbot evaluations of intersecting identities in ‘grey zone’ situations </h4>
-<p align="justify"> 
-bla
-
-#### How often did each chatbot qualify the impact of each category? 
-
-| Category                 | DeepSeek | Mistral | Gemma | Mean |
-| ------------------------ | -------- | ------- | ----- | ---- |
-| **Psychological issues** | 13       | 8       | 16    | 12   |
-| **Age**                  | 17       | 13      | 5     | 12   |
-| **Gender**               | 7        | 8       | 1     | 5    |
-| **Sexual Identity**      | 0        | 3       | 0     | 1    |
-| **Zone of residence**    | 0        | 3       | 0     | 1    |
-| **Socioeconomic Status** | 0        | 1       | 0     | 1    |
-| **Culture**              | 1        | 1       | 0     | 1    |
-| **Ethnicity**            | 0        | 1       | 0     | 0    |
-| **Disability**           | 0        | 0       | 0     | 0    |
-| **Religion**             | 0        | 0       | 0     | 0    |
-| **Nationality**          | 0        | 0       | 0     | 0    |
-| **Mean**                 | 4        | 3       | 2     | 3    |
-
-
 
 
 <a name="comp"></a>
-<h3> 4.3 Top Vignettes Across Chatbots: An Intersectional Comparison </h3>
+<h3> 4.2.2 Top Vignettes Across Chatbots: An Intersectional Comparison </h3>
 <p align="justify"> 
 This subsection presents a focused comparative analysis of the three most frequently described vignettes across DeepSeek, Mistral, and Gemma. Through an intersectional lens, we examine how each model frames these scenarios in terms of identity categories. The goal is to uncover patterns of emphasis, or bias, in how the chatbots interpret and represent individuals in the three more detailed vignettes from each chatbot.
 <p align="justify"> 
@@ -557,7 +538,7 @@ One notable limitation of this study is that the chatbots generally refrained fr
 
 
 <a name="bibliography"></a>
-<h2> Bibliography</h2>
+<h2> 6. Bibliography</h2>
 <p align="justify">
 Artificial Analysis. (2024, September 15). AI chatbots comparison: ChatGPT, Claude, Meta AI, Gemini and more. Artificial Analysis. https://artificialanalysis.ai
 <p align="justify">
