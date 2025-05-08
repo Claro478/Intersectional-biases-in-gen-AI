@@ -330,7 +330,7 @@ Gemma’s distribution for legislators is distributed with about 35% set as ‘W
 <img width="650" alt="primary school teacher" src="https://github.com/Claro478/Intersectional-biases-in-gen-AI/blob/main/Graphs_doctor.jpeg">
   
 <br/>  
-<i>Figure 1: Suggested personas for medical doctor.</i>
+<i>Figure 2: Suggested personas for medical doctor.</i>
 </div> 
 
 <p align="justify">
@@ -352,7 +352,7 @@ The results highlight that Deepseek and Gemma lean towards White, Female and Upp
 <img width="650" alt="primary school teacher" src="https://github.com/Claro478/Intersectional-biases-in-gen-AI/blob/main/Graphs_Teacher.jpeg">
   
 <br/>  
-<i>Figure 1: Suggested personas for Teacher.</i>
+<i>Figure 3: Suggested personas for Teacher.</i>
 </div> 
 
 <p align="justify">
@@ -370,7 +370,7 @@ Deepseek classifies primary school teachers as ‘White, Female, Middle class’
  
 <img width="650" alt="software engineer" src="https://github.com/Claro478/Intersectional-biases-in-gen-AI/blob/main/Graphs_engineer.jpeg">
 <br/>  
-<i>Figure 1: Suggested personas for software engineer</i>
+<i>Figure 4: Suggested personas for software engineer</i>
 </div> 
 
 <p align="justify">
@@ -385,7 +385,7 @@ Deepseek classifies primary school teachers as ‘White, Female, Middle class’
 <div align="center">
  <img width="650" alt="cleaner" src="https://github.com/Claro478/Intersectional-biases-in-gen-AI/blob/main/Graphs_cleaner.jpeg">
 <br/>  
-<i>Figure 1: Suggested personas for Cleaner</i>
+<i>Figure 5: Suggested personas for Cleaner</i>
 </div> 
 
 <p align="justify">
@@ -400,7 +400,7 @@ In about 80% of cases, Deepseek replied with ‘Hispanic/Latino, Female, Working
 <div align="center"> 
 <img width="650" alt="stay at home parent" src="https://github.com/Claro478/Intersectional-biases-in-gen-AI/blob/main/Graphs_stayathomeparent.jpeg">
 <br/>  
-<i>Figure 1: Suggested personas for Stay-at-home-parent</i>
+<i>Figure 6: Suggested personas for Stay-at-home-parent</i>
 </div> 
 
 <p align="justify">
