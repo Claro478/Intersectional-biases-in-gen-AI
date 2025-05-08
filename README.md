@@ -19,7 +19,7 @@
 
 [4.1 Quantitative Results](#quantanalysis)
 
-[4.1.1 Aggregated analysis by Chatbot](#aggregateanalysis)
+[4.1.1 Aggregate Analysis by Chatbot](#aggregateanalysis)
 
 [4.2 Qualitative Results](#qualanalysis)
 
@@ -416,7 +416,7 @@ For more than 85% of the cases, Deepseek suggests that a stay at home parent is 
 This highlights a clear bias on the profile of a stay at home parent as one that is White, Female and from the Middle class across all 3 chatbots. 
 
 <a name="aggregateanalysis">
-<h3>4.1.1 Aggregated analysis by Chatbot </h3>
+<h3>4.1.1 Aggregate Analysis by Chatbot </h3>
 <p align="justify">
 At an overall level, Deepseek highlights a bias towards ‘White, Female Upper Middle class’ for legislator and medical doctor, ‘ White, Female, Middle class’ for teacher and stay at home parent, ‘White, Male, Upper Middle class’ for engineer and ‘Hispanic/Latino, Female, Working class’ for  cleaner. For most of these cases, there is also a clear inclination towards absence of physical disability.
  <p align="justify">
