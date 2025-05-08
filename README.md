@@ -175,7 +175,7 @@ To approach the problem, following the identification of the three chatbots abov
 |Stay at Home Parent |N/A|
 <p align="justify">
 
-<h4> 3.1.2 Prompt</h3>
+<h4> 3.1.2 Prompt</h4>
 <p align="justify">
  To ask the chatbots for a response, the following prompt was used : 
 <p align="justify">
@@ -187,7 +187,7 @@ To approach the problem, following the identification of the three chatbots abov
 <p align="justify">
 Additionally, the chatbot is asked to act as if : <i>"You are replying to a user using this chatbot for the first time. You have no background information of the person that is asking information.’’ </i> This is done to address any potential biases that the chatbots may have.
 
-<h4> 3.1.3 Data Collection</h3>
+<h4> 3.1.3 Data Collection</h4>
 <p align="justify">
 To collect the data, the website groq was used. Each chatbot was prompted 100 times for each type of job and the data was collected in a .table format and stored in a csv format for each request. This resulted in 600 prompts per chatbot, for 3 chatbots - for a total of 1800 data pulls. 
 <p align="justify">
