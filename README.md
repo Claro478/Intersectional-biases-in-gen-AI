@@ -25,7 +25,9 @@
 
 [4.2.1 Descriptive Analysis](#descriptanalysis)
 
-[4.2.2 Top Vignettes Across Chatbots: An Intersectional Comparison](#comp)
+[4.2.2 Evaluative Analysis](#evalanalysis)
+
+[4.2.3 Top Vignettes Across Chatbots: An Intersectional Comparison](#comp)
 
 [5. Conclusion](#conclusion)
 
@@ -416,7 +418,7 @@ For more than 85% of the cases, Deepseek suggests that a stay at home parent is 
 This highlights a clear bias on the profile of a stay at home parent as one that is White, Female and from the Middle class across all 3 chatbots. 
 
 <a name="aggregateanalysis">
-<h3>4.1.1 Aggregate Analysis by Chatbot </h3>
+<h4>4.1.1 Aggregate Analysis by Chatbot </h4>
 <p align="justify">
 At an overall level, Deepseek highlights a bias towards ‘White, Female Upper Middle class’ for legislator and medical doctor, ‘ White, Female, Middle class’ for teacher and stay at home parent, ‘White, Male, Upper Middle class’ for engineer and ‘Hispanic/Latino, Female, Working class’ for  cleaner. For most of these cases, there is also a clear inclination towards absence of physical disability.
  <p align="justify">
@@ -488,7 +490,7 @@ In the case of Gemma, the category that is more used is culture, where it tends 
 | **Mean**               | **4**    | **2**   | **1**  | **2** |
 
 <a name="evalanalysis"></a>
-<h4> 4.1.2 Analysing Chatbot evaluations of intersecting identities in ‘grey zone’ situations </h4>
+<h4> 4.2.2 Analysing Chatbot evaluations of intersecting identities in ‘grey zone’ situations </h4>
 <p align="justify"> 
 This section discusses the instances in which Chatbots assessed the given situation and produced more specific, evaluating statements for the user. Below is a table displaying the frequency of evaluating statements made across the 22 Vignettes, depending on each Chatbot. The first three categories, psychological issues, age and gender, involved a significant amount of evaluated statements compared to the other nine categories. We classified statements as ‘evaluating’ (as opposed to the above ‘descriptive’ statements) when the Chatbots did not only say that a certain demographic plays some kind of role in the scenario, but rather when there was a specific direction or quality to the connection (e.g. “Gender might make women more likely to receive such comments”).
 <p align="justify"> 
@@ -510,7 +512,7 @@ This section discusses the instances in which Chatbots assessed the given situat
 | **Nationality**          | 0        | 0       | 0     | 0    |
 | **Mean**                 | 4        | 3       | 2     | 3    |
 
-<h4>Mistral is the most specific and diverse - but this is a double edged sword.</h4>
+<h5>Mistral is the most specific and diverse - but this is a double edged sword.</h5>
 <p align="justify"> 
 In answering how often and in what context each chatbot mentions specific details from each category, we discovered Mistral is the most diverse and specific, followed by Deepseek and then Gemma. 
  <p align="justify"> 
@@ -536,7 +538,7 @@ Gemma explicitly mentions gender in only 1 of 22 situations and age in 5, while 
         <p align="justify">
 Overall, the description of how different identities and demographics might interact to shape situations, are rudimentarily touched upon by Chatbots. It seems however that their, generally applaudable, cautiousness in emphasising the demographics of people to avoid stereotyping leads them to evade assessments of the mutually reinforcing effects belonging to overlapping marginalized groups might produce. This analysis thus shows the general difficulty with assessing the ‘value’ of the chatbot responses, and the overall challenge with applying intersectionality between highlighting intersecting identities and profiling and “tickboxing” diverse personas.
        <p align="justify">
-<h4>Psychological issues, age and gender seem to be ‘unproblematic’.</h4>
+<h5>Psychological issues, age and gender seem to be ‘unproblematic’.</h5>
        <p align="justify">
 In the analysis, we also observed that the prevalence of the age, gender and psychological issues category suggests they are perceived as less contentious to label people with  compared to more seemingly polarised categories such as socioeconomic status, ethnicity & race, disability and religion consequently remain residual (as least for specific statements). 
   <p align="justify">
@@ -553,7 +555,7 @@ All Chatbots were particularly likely to get specific around psychological issue
    <p align="justify">
 However, on this note the labelling of “perpetrator” and “abuser” was only present in Gemma’s V3, V4, and V7 respectively, seemingly only when something actually illegal happens. Whereas, in Gemma’s V2 and V6, the perpetrator who only attempts harassment sexual coercion is simply labeled “a person”. For example, ‘The person pursuing reconciliation’ (V2). When connecting this to the category of ‘psychological factors’, Gemma’s labelling of ‘perpetrator’, ‘abuser’ and ‘person’ does not change its explanation of the psychology behind the behaviour. Although mental health can be deemed sensitive, this demonstrates that Gemma does not produce output that convolutes the moral and legality of an action with a psychological explanation. 
 <p align="justify">
-<h4>Little inter-category variation: Gender is usually understood in a more binary way and Young adults of working age are the default.</h4>
+<h5>Little inter-category variation: Gender is usually understood in a more binary way and Young adults of working age are the default.</h5>
 <p align="justify">
 While the openness of the “gender” label may encourage more broader reflection, the specific intersectionalities addressed in the responses often appear primarily in the context of GBV and scenarios involving social anxieties. In these cases, DeepSeek especially assumes that young adults are involved, paired with assumptions about their psychological motivates, emotional disposition, and occasionally introducing a gender dimension. 
  <p align="justify">
@@ -573,7 +575,7 @@ Interestingly, while young adults appear as the primary demographic assumed acro
 
 
 <a name="comp"></a>
-<h3> 4.2.2 Top Vignettes Across Chatbots: An Intersectional Comparison </h3>
+<h4> 4.2.2 Top Vignettes Across Chatbots: An Intersectional Comparison </h4>
 <p align="justify"> 
 This subsection presents a focused comparative analysis of the three most frequently described vignettes across DeepSeek, Mistral, and Gemma. Through an intersectional lens, we examine how each model frames these scenarios in terms of identity categories. The goal is to uncover patterns of emphasis, or bias, in how the chatbots interpret and represent individuals in the three more detailed vignettes from each chatbot.
 <p align="justify"> 
