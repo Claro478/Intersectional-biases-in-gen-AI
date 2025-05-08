@@ -566,7 +566,7 @@ Interestingly, while young adults appear as the primary demographic assumed acro
 
  #### Distribution of specific mentions among most common categories
 <div align="center"> 
-<img width="650" alt="table qual analysis" src="https://github.com/Claro478/Intersectional-biases-in-gen-AI/blob/main/Table_qualanalysis.jpeg">
+<img width="650" alt="table qual analysis" src="https://github.com/Claro478/Intersectional-biases-in-gen-AI/blob/main/Table_qualanalysis.jpg">
 <br/>  
 <i>Figure 7: Table for the analysis of evaluative statements</i>
 </div> 
