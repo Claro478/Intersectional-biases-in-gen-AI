@@ -79,7 +79,7 @@ The technical and computational foundations of AI bias provide essential insight
  In addition, the notion of model interpretability, often framed within Explainable AI (XAI), investigates the transparency and comprehensibility of AI models, crucial for identifying, addressing, and mitigating bias (Barnes and Hutson, 2024; Siachos and Karacapilidis, 2024). In this way, explainability ensures that stakeholders understand how AI decisions are made, fostering accountability and enabling more effective interventions against discriminatory outcomes (Barnes and Hutson, 2024; Siachos and Karacapilidis, 2024). The emphasis on interpretability underscores the necessity for developing systems whose internal processes are not only visible but also accessible to diverse users and researchers, facilitating continuous scrutiny and iterative improvements to chatbot systems.
 
 
-<h4> 2.2 Critical and Theoretical Frameworks</h4>
+<h3> 2.2 Critical and Theoretical Frameworks</h3>
 <p align="justify"> 
 In order to gain a well-rounded understanding of bias in AI-powered chatbots, it is essential to go beyond an exclusively technical analysis. This demands critically engaging with broader theoretical frameworks that interrogate power, identity, and social structures. Drawing from fields such as data feminism and critical race theory, scholars reveal how algorithmic systems are deeply embedded within existing hierarchies and exclusions. Thus, this section seeks to examine interdisciplinary perspectives and their role in challenging assumptions of technological neutrality and offer alternative ways to conceptualise and address bias in chatbot design and deployment. 
 <p align="justify"> 
@@ -106,7 +106,7 @@ Despite these limitations, many measurement frameworks have emerged, including t
   AI ethics is an ever-growing field and taking an intersectional approach is vital so as to move beyond a focus of gender inequality. Garg et al.’s work on word embeddings is useful for its intersectional approach to comparing embeddings with demographic trends in occupational participation (2017). They quantify 100 years of gender and ethnic stereotyping by measuring the strength of association (embedding bias) between neutral words and groups. Their research displays that biases can indeed be rectified through a technological approach which is what this paper aims to replicate. 
   <p align="justify">
    
-<h4> 2.3 Ethical Theories</h4>
+<h3> 2.3 Ethical Theories</h3>
  <p align="justify">
 The development and deployment of AI-powered chatbots have evidently raised fundamental ethical questions about not only harm, justice, and accountability, but also whose experiences are prioritised or erased in automated systems. While technical fixes for algorithmic bias often dominate public discourse, such approaches overlook the normative tensions that underlie design decisions (Ulnicane & Aden, 2023). The use of ethical and normative theories provide critical frameworks for interrogating what constitutes fair or responsible AI (Xue et al., 2021; Ulnicane & Aden, 2023) as well as whose lives are centered or marginalised. These frameworks reveal that ethics in AI is a contested terrain that is shaped by divergent philosophical traditions, political ideologies, and cultural assumptions (Ulnicane & Aden, 2023). This becomes particularly apparent when analysing how AI-powered chatbots operationalise social categories in generating responses. 
  <p align="justify">
@@ -124,7 +124,7 @@ Ultimately, such analysis demands a shift from treating bias as a technical erro
 <p align="justify"> 
  To investigate intersectional representation harm or also protection, we review if some situations or professions tend to be associated with specific groups in the conversation with three different chatbots.
 <p align="justify"> 
-<h3>Chatbot selection</h3>
+<h4>Chatbot selection</h4>
 <p align="justify"> 
 When considering different chatbots to assess for this report, defining the criteria for benchmarking is key. We have considered three main factors to ensure the diversification of our results: 1) geographic diversification, 2) user volume and 3) selecting the optimal models from these previous criteria.
 <p align="justify"> 
